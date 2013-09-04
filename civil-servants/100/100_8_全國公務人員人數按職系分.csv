@@ -75,7 +75,6 @@
 "地質","Geologic","80","64","16","77","3"
 "礦冶材料","MineralMaterial","90","80","10","90","－"
 "測量製圖","SurveyingandMapping","1653","1451","202","320","1333"
-"GrandTotal","Male","Female","CentralGovernmentAgency","LocalGovernmentAgency"
 "藥事","Pharmaceutical","286","88","198","225","61"
 "法醫","ForensicMedicine","54","40","14","54","－"
 "刑事鑑識","ForensicScience","44","28","16","37","7"
@@ -100,4 +99,3 @@
 "景觀設計","LandscapeDesign","79","32","47","30","49"
 "生物技術","BiologicalTechnique","32","13","19","32","－"
 "無職系","NoSeries","163194","117353","45841","87856","75338"
-"Source：AllCivilServantsDatabase."
